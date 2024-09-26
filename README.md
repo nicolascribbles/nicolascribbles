@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolascribbles&label=Profile%20views&color=0e75b6&style=flat" alt="nicolascribbles" /> </p>
 
-- 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and CareAcademy's new UI (not out yet).
+- 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and [CareAcademy's Design System Library](https://design.careacademy.com/) and UI.
 
 - 🌱 I’m currently learning **WebGL and Data Visualization**
 
