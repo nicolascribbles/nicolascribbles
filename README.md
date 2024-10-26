@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **building a new website**
 
-- 🤝 I’m looking for help with [finding a new full time position](https://www.linkedin.com/in/nicolareyes)
+- 🤝 I’m looking for help with [my upcoming type safe vue 3 ui library](https://www.github.com/nicolascribbles/sketchbook-ui)
 
 - 👨‍💻 Some of my projects are available at [https://nicolacodes.com/projects](https://nicolacodes.com/projects)
 
