@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and [CareAcademy's Design System Library](https://design.careacademy.com/) and UI.
 
-- 🌱 I’m currently learning **WebGL and Data Visualization**
+- 🌱 I’m currently learning **WebGL and Data Visualization** and upskilling with **React**
 
-- 👯 I’m looking to collaborate on **building a new website**
+- 👯 I’m looking to collaborate on **building an open source UI Library**
 
 - 🤝 I’m looking for help with [my upcoming type safe vue 3 ui library](https://www.github.com/nicolascribbles/sketchbook-ui)
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **nicolascribbles@gmail.com**
 
-- 📄 Know about my experiences [https://nicolacodes.com/NicolaReyesResume.pdf](https://nicolacodes.com/NicolaReyesResume.pdf)
+- 📄 Know about my experiences [https://nicolacodes.com/NicolaRikerResume.pdf](https://nicolacodes.com/NicolaRikerResume.pdf)
 
 - ⚡ Fun fact **My favorite books are all in Brandon Sanderson's cosmere.**
 
