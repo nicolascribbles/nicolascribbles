@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and I am an employee at Gemini Legal.
 
-- 🌱 I’m currently familiarizing myself with the relationship of the GPU and the browser through **WebGL, 3D Web Development and Data Visualization** and upskilling with **React** by taking Bruno Simon's three.js course.
+- 🌱 I’m currently familiarizing myself with the relationship of the GPU and the browser through **WebGL, 3D Web Development and Data Visualization** and upskilling with **React** by taking Bruno Simon's three.js journey course. [Repo with lessons](https://github.com/nicolascribbles/threejs_journey) | [the course](https://threejs-journey.com/)
 
 - 👯 I’m looking to collaborate on **building an open source UI Library**
 
