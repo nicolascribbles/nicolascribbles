@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolascribbles&label=Profile%20views&color=0e75b6&style=flat" alt="nicolascribbles" /> </p>
 
-- 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and I am an employee at Gemini Legal.
+- 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and I am an employee at Gemini Legal working on **JudyAI**.
 
 - 🌱 I’m currently familiarizing myself with the relationship of the GPU and the browser through **WebGL, 3D Web Development and Data Visualization** and upskilling with **React** by taking Bruno Simon's three.js journey course. [Repo with lessons](https://github.com/nicolascribbles/threejs_journey) | [the course](https://threejs-journey.com/)
 
