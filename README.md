@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 
 - 📄 Learn more about my work at [https://nicolacodes.com](https://nicolacodes.com)
 
+- ☕ Support Sketchbook, Intelligence, and my open source work: https://buymeacoffee.com/nicolascribbles 
+
 - ⚡ Fun fact: **I've worked across legal AI, healthcare education, workflow orchestration, fintech, marketing technology, and design systems—but I'm still probably thinking about a Brandon Sanderson book.**
 
 <h3 align="left">Connect with me:</h3>
