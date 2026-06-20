@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **AI-powered workflows, legal technology, medical record intelligence, design systems, Vue, and product development**.
 
-- 📫 How to reach me **nicolascribbles@gmail.com**
+- 📫 How to reach me **nicola@rikerweb.com**
 
 - 📄 Learn more about my work at [https://nicolacodes.com](https://nicolacodes.com)
 
