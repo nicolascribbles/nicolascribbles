@@ -15,29 +15,30 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I'm Nicola Riker</h1>
-<h3 align="center">A passionate front end engineer based out of Colorado Springs.</h3>
+<h3 align="center">Senior Software Engineer building AI-powered products, workflow systems, and design platforms.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolascribbles&label=Profile%20views&color=0e75b6&style=flat" alt="nicolascribbles" /> </p>
 
-- 🔭 I’m currently working on [my website portfolio](https://nicolacodes.com/) and I am an employee at Gemini Legal working on **JudyAI**.
+- 🔭 I’m currently building **JudyAI and ChartInsight at Gemini Legal**, while working on **Intelligence** (an AI workspace for knowledge work) and **Sketchbook** (a programmable design system platform).
 
-- 🌱 I’m currently familiarizing myself with the relationship of the GPU and the browser through **WebGL, 3D Web Development and Data Visualization** and upskilling with **React** by taking Bruno Simon's three.js journey course. [Repo with lessons](https://github.com/nicolascribbles/threejs_journey) | [the course](https://threejs-journey.com/)
+- 🌱 I’m currently exploring **AI workflows, agent orchestration, developer experience, design systems, and product strategy**.
 
-- 👯 I’m looking to collaborate on **building an open source UI Library**
+- 👯 I’m looking to collaborate on **AI-powered products, workflow automation, design systems, and developer tooling**.
 
-- 🤝 I’m looking for help with [my upcoming type safe vue 3 ui library](https://www.github.com/nicolascribbles/sketchbook-ui)
+- 🤝 I’m looking for collaborators interested in **Sketchbook, Intelligence, AI interfaces, and the future of knowledge work**.
 
 - 👨‍💻 Some of my projects are available at [https://nicolacodes.com/projects](https://nicolacodes.com/projects)
 
-- 📝 I write articles on [https://nicolacodes.com/blog](https://nicolacodes.com/blog)
+- 📝 I write about **AI, product development, design systems, software engineering, and workflow automation** at [https://nicolacodes.com/blog](https://nicolacodes.com/blog)
 
-- 💬 Ask me about **Vue, Javascript, CSS, HTML**
+- 💬 Ask me about **AI-powered workflows, legal technology, medical record intelligence, design systems, Vue, and product development**.
 
 - 📫 How to reach me **nicolascribbles@gmail.com**
 
-- 📄 Know about my experiences [https://nicolacodes.com/NicolaRikerResume.pdf](https://nicolacodes.com/NicolaRikerResume.pdf)
+- 📄 Learn more about my work at [https://nicolacodes.com](https://nicolacodes.com)
 
-- ⚡ Fun fact **My favorite books are all in Brandon Sanderson's cosmere.**
+- ⚡ Fun fact: **I've worked across legal AI, healthcare education, workflow orchestration, fintech, marketing technology, and design systems—but I'm still probably thinking about a Brandon Sanderson book.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
