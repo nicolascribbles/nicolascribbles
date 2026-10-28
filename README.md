@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolascribbles&label=Profile%20views&color=0e75b6&style=flat" alt="nicolascribbles" /> </p>
 
-- 🔭 I’m currently building **JudyAI and ChartInsight at Gemini Legal**, while working on **Intelligence** (an AI workspace for knowledge work) and **Sketchbook** (a programmable design system platform).
+- 🔭 I’m currently building **ChartInsight at Gemini Legal**, while working on **Intelligence** (an AI workspace for knowledge work) and **Sketchbook** (a programmable design system platform).
 
 - 🌱 I’m currently exploring **AI workflows, agent orchestration, developer experience, design systems, and product strategy**.
 
